@@ -1,19 +1,28 @@
-<div align="center">   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Joyeoh&show_icons=true&theme=outrun"/>
-    
-### 🐰  Joyeoh's GITHUB 🐰 
-<img src="./images/profile_default.jpg" alt="profile_image">
-<a href="https://github.com/Joyeoh">
+<div align="center">
+
+  <h3>🐰 Joyeoh's GITHUB 🐰</h3>
+    <br/>
+  <a href="https://github.com/Joyeoh">
     <img src="https://komarev.com/ghpvc/?username=Joyeoh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
-</a>
+  </a>
+  <br/>
+  <br/>
+    <br/>
+ <table border="0" cellspacing="0" cellpadding="0">
+    <tr valign="top">
+      <td  style="border: none;">
+        <img src="./images/profile_default.jpg" alt="profile_image" width="280">
+      </td>
+      <td  style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Joyeoh&show_icons=true&theme=outrun&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
 
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
  ---
  
