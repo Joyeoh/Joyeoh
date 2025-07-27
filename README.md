@@ -2,8 +2,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Joyeoh&show_icons=true&theme=outrun"/>
     
 ### 🐰  Joyeoh's GITHUB 🐰 
-
- <a href="https://github.com/Joyeoh">   <img src="https://profile-counter.glitch.me/Joyeoh/count.svg" /></a>
+<img src="./images/profile_default.jpg" alt="profile_image">
+<a href="https://github.com/Joyeoh">
+    <img src="https://komarev.com/ghpvc/?username=Joyeoh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+</a>
 
 </div>
 
